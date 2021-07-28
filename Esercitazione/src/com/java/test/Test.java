@@ -45,6 +45,8 @@ public class Test {
 		Scontrino scontrino = cassa.emettiScontrino(c);
 		
 		System.out.println(scontrino.stampaScontrino());
+
+		System.out.println("CIAO");
 	}
 
 }
